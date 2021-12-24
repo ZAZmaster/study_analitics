@@ -1,1 +1,1 @@
-# study_analitics
+# numpy study example
